@@ -48,7 +48,6 @@ os.Setenv("DATABASE_URL", "postgres://<username>:<password>@localhost:5432/<data
 ```
 
 ## Demo application
-
-kalian dapat mencobanya di [https://final-web-app.fly.dev](https://final-web-app.fly.dev)
+kalian dapat mencobanya di [https://final-web-app.fly.dev/login](https://final-web-app.fly.dev/login)
 
 <!-- TODO: masih perlu dibuat -->
